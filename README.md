@@ -1,2 +1,2 @@
 # nextjs_learning
-learn nextjs 
+learn nextjs day01
